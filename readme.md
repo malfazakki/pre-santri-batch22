@@ -26,7 +26,7 @@ Program pre-santri ini dirancang untuk memberikan pemahaman dasar tentang pengem
 |------|---------|----------|
 | 8-14 | CSS Layout, Flexbox, Grid, Position | Implementasi berbagai jenis layout |
 
-### Minggu 3 ��� JavaScript Dasar
+### Minggu 3 JavaScript Dasar
 | Hari | Materi | Kegiatan |
 |------|---------|----------|
 | 15 | Intro JavaScript | Bikin script sederhana |
